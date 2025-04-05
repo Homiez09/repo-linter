@@ -1,6 +1,8 @@
 # Repo Linter
 
-![Repo Linter Example](เดี๋ยวมาใส่จ้า)
+<p align="center">
+   <img width="456" alt="Screenshot 2568-04-05 at 22 58 41" src="https://github.com/user-attachments/assets/ff34f30c-f896-4d7c-a47d-e583e8f4b372" />
+</p>
 
 Repo Linter is a tool designed to help developers ensure that their GitHub repository names follow best practices for naming conventions, particularly for **kebab-case** formatting. This tool can be easily integrated into your workflow to automatically suggest, enforce, and even update repository names based on common conventions.
 
